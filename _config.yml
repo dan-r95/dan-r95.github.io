@@ -24,10 +24,10 @@ github_username:  rossy95
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight 
+theme: minima
 gems:
   - jekyll-feed
-#minima
+#jekyll-theme-midnight
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
