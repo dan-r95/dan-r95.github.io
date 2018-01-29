@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 .jekyll-metadata
+=======
+.bundle
+.sass-cache
+Gemfile.lock
+_site
+*.gem
+>>>>>>> 3a59f5471eeb2ac0d47c73f5e02292bfd3c6bc99

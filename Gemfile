@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -29,3 +30,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #  Please add the following to your Gemfile to avoid polling for changes:
 # gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+=======
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+gemspec
+>>>>>>> 3a59f5471eeb2ac0d47c73f5e02292bfd3c6bc99
