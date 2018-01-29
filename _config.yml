@@ -50,3 +50,5 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+plugins:
+  - jekyll-feed
