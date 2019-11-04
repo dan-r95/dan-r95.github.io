@@ -17,34 +17,39 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
 </head>
 
 <body>
-
 
 
   <div class="wrapper">
 
     <section>
       <div id="title">
-        <h1 ><a href="{{ site.url}}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ site.url}}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <hr>
+        <h3> <a href="/about"> About
+          </a> </h3>
+        <h3> <a href="/portfolio"> Portfolio
+          </a> </h3>
+
+      </div>
+   
+
+    {{ content }}
+  </section>
+
+    <section>
+      <hr>
+      <div id="title">
         <span class="credits left">Project maintained by <a
             href="{{ site.github }}">{{ site.github_username }}</a></span>
         <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a
             href="https://twitter.com/mattgraham">mattgraham</a></span>
-        <!--<span>Portfolio  </span>-->
-       
       </div>
-
-      {{ content }}
     </section>
-
   </div>
-
-
 
 </body>
 
