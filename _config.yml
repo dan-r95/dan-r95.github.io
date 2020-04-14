@@ -24,6 +24,10 @@ twitter_username: dan_r95
 github_username:  dan-r95
 github: "https://github.com/dan-r95"
 
+# Google Analytics account ID (UA-XXXXXXXX-X)
+google-analytics-ua: UA-149442442-1
+
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-midnight
