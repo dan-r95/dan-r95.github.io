@@ -37,6 +37,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jemoji
+  - jekyll-pdf-embed
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
