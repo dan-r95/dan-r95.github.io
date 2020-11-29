@@ -35,6 +35,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-gist
+  - jemoji
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
