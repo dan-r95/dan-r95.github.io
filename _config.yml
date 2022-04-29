@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Daniel's Blog
-author: GitHub User
+author: Daniel
 email: d.rossburg[at]googlemail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi there, welcome!
