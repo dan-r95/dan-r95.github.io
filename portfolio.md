@@ -3,6 +3,7 @@ layout: post
 title: Portfolio
 permalink: /portfolio/
 ---
-I am developer with > 2 years of experience who is interested in web development and all things flutter.
 
-Say hi if you want to!  :+1:!
+
+Have a look at my resume if you want to. Sorry that it's in german.
+<object data="./assets/resume.pdf" width="1000" height="1000" type='application/pdf'></object>
