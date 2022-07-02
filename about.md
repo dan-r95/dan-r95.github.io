@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I am developer with > 2 years of experience who is interested in GoLang, web development and all things flutter.
 
-![About me]({{ site.url }}/assets/BW.jpg)
+![About me]({{ site.url }}/assets/BW.jpg | width=300)
 
 Say hi if you want to!  :+1:!
 
